@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    flex-direction: column;
+    height: 20vh;
+    
+}
+header h1{
+    color: green;
+}
+.contenido{
+    height: 70vh;
+}
+.separacion{
+    display :flex;
+    background-color: green;  
+    
+}
+body p {
+    color: rgb(0, 0, 0);
+}
+div{
+    margin-right: 5px;
+}
+footer{
+    display: flex;
+    background-color: black;
+    color: whitesmoke;
+    flex-direction: column;
+    justify-content:flex-end;
+    align-items:center ;
+    height: 10vh;
+}
+footer h1 {
+    margin: 15px;
+}
